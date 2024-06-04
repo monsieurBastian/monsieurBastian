@@ -1,7 +1,7 @@
-👋 Hi, I’m @monsieurBastian
+# Hi there 👋
 
-- Sport enthusiast 
-- Working as Frontend and Multimedia Team Lead as SCOTT Sports
+- Sport enthusiast 🏊‍♂️ 🚴‍♂️ 🏃‍♂️
+- Head of Frontend and Multimedia Design at SCOTT Sports
 - Living in Switzerland
 - Father of 3
-- Currently learning Gatsby, improving Git skills and more
+- Currently learning NextJs, Vercel, Sanity, and improving Git skills and more
